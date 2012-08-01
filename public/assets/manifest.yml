@@ -10,14 +10,13 @@ clouds-two.png: clouds-two-e41752e55c70ff6b32a262db9e704ab1.png
 clouds.png: clouds-7b40433b1ea20b5003d33478216bd855.png
 content-bg.jpg: content-bg-6d3e3827bcaded25d1369754232258e9.jpg
 content-corner.png: content-corner-4de0278a06d97dea2048be0784f1e315.png
-copycopter.png: copycopter-96203fe147fdcb4483f394f0b3b76547.png
+copycopter.png: copycopter-61065b7c29b412b3ee1953b4b30d896a.png
 dashboard-col.gif: dashboard-col-99626a1da49b5df96b06aaece158d33a.gif
 dashboard-tab.png: dashboard-tab-ee4e435e3d2e930f7895fa056018a301.png
 edit-pencil.png: edit-pencil-871e377c53c9524334b7b340b88a3f35.png
 feedback-logo.png: feedback-logo-1bc9ffed086f824a3e50bc789c59285d.png
 header-glow.jpg: header-glow-e3589c7c5c7b5805015bdde40b8bfbe4.jpg
 hello.png: hello-b4955dbed5bf10ecbc60d600426ef961.png
-home/------0copycopter-logo.png: home/------0copycopter-logo-40be176dfb786fcb2e5b98710e56e20b.png
 home/calendar.png: home/calendar-40c1eafe57328e4cefd508315ba4ebf8.png
 home/cloud-fade.png: home/cloud-fade-1fe45c6de658cf7ddb970dc32c948abc.png
 home/copycopter-logo.png: home/copycopter-logo-ef39d057f57a59d4be38af19060bfdda.png
@@ -44,5 +43,5 @@ wysiwyg/italic.png: wysiwyg/italic-2a44afa9c942783458368610b1712104.png
 wysiwyg/list.png: wysiwyg/list-20f9e239dcad1e6453702ff96fae8618.png
 wysiwyg/move.png: wysiwyg/move-4d7a3014b3795ab9a78ae30c62935375.png
 application.js: application-827171cbaed8c3d9f1f27b725a0ea4ce.js
-application.css: application-ed5a4cb1c6ed5580c9b7cce75805af15.css
+application.css: application-f357eb89308dca28dce4e653f4e068d0.css
 wysiwyg.css: wysiwyg-36891088ae5a01bca848fa8c562de80e.css
